@@ -1,0 +1,28 @@
+img_control:
+  ros__parameters:
+    bright: 1
+    contrast: 1.1
+    blur: 5
+
+laplace:
+  ros__parameters:
+    smoothType: GAUSSIAN
+    sigma: 2
+
+edge:
+  ros__parameters:
+    thrs1: 600
+    thrs2: 1500
+
+mosaic:
+  ros__parameters:
+    mosaic: 15
+
+optical_flow:
+  ros__parameters:
+    step: 8    
+
+img_publisher:
+  ros__parameters:
+    width: 480
+    length: 320

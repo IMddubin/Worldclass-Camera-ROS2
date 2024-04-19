@@ -1,0 +1,6 @@
+bool start
+string filename
+---
+bool success
+string message  
+string filename
