@@ -1,7 +1,7 @@
 # Worldclass Camera with ros2
 opencv와 ros2를 활용하여 카메라 패키지를 구현해보자
 
-![20240419_144907](https://github.com/IMddubin/Worldclass-Camera-ROS2/assets/103230856/acb35ecb-ff50-4730-acb0-ded4a9e9852e)
+![20240419_175024](https://github.com/IMddubin/Worldclass-Camera-ROS2/assets/103230856/e56914c9-9c25-4864-b9d6-38861fb50bea)
 
 ## 1. 프로젝트 환경
 OS : Ubuntu 22.04 LTS
